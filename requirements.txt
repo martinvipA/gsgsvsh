@@ -53,3 +53,7 @@ Werkzeug==2.1.2
 yarg==0.1.9
 
 getids
+
+telethon
+
+pyfiglet
